@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x 103-commas  
+ls -amp | sort -d  
